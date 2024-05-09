@@ -1,0 +1,9 @@
+textarea {
+    width: 99%;
+    height: 88vh;
+    font-size: 1em;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
